@@ -1,5 +1,5 @@
 
-
+//timers in avr
 void timer_delay();
 
 void setup(){ 
